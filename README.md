@@ -3,9 +3,10 @@ A simple portfolio website built using pure HTML, marking my first step into web
 
 # About
 This is my initial project in web development - a portfolio website created using only HTML. This project taught me the fundamentals of HTML structure and web page creation.
-Technologies Used
 
-# HTML5
+# Technologies Used
+
+ HTML5
 
 # Features
 
